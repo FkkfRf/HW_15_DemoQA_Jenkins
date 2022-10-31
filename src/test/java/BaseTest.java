@@ -25,7 +25,7 @@ public class BaseTest {
             capabilities.setCapability("enableVideo", true);
             Configuration.browserCapabilities = capabilities;
         });
-        step("Открываем тестируемую форму", () -> {
+        step("Открываем тестируемую форму в заданной конфигурации браузера", () -> {
             Configuration.baseUrl = "https://demoqa.com";
             Configuration.browserSize = "1920x1080";
             Configuration.remote = "https://user1:1234@selenoid.autotests.cloud/wd/hub";

@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53ace7b9-3ea7-4a4c-bbe5-daa04688fa06" name="Changes" comment="add steps for Allure">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="53ace7b9-3ea7-4a4c-bbe5-daa04688fa06" name="Changes" comment="correct gitIgnore">
+      <change beforePath="$PROJECT_DIR$/src/test/java/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BaseTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667212571721</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="correct gitIgnore">
+      <created>1667240256671</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667240256671</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,7 +246,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add steps for Allure" />
-    <option name="LAST_COMMIT_MESSAGE" value="add steps for Allure" />
+    <MESSAGE value="correct gitIgnore" />
+    <option name="LAST_COMMIT_MESSAGE" value="correct gitIgnore" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/HW_15_DemoQA_Jenkins$HW_15_DemoQA_Jenkins__allureServe_.ic" NAME="HW_15_DemoQA_Jenkins [allureServe] Coverage Results" MODIFIED="1667164402285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
